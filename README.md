@@ -26,5 +26,6 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 11. Introducción a distribuciones de probabilidad
 
 **Esto es una prueba de como puedo editar**
-No me aparece el GIT en la pantalla de *enviroment*
 
+No me aparece el GIT en la pantalla de *enviroment*
+¿Cómo hago para eso?
