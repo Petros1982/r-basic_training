@@ -25,4 +25,6 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 10. Introducción a la regresión lineal
 11. Introducción a distribuciones de probabilidad
 
-Esto es una prueba de como puedo editar
+**Esto es una prueba de como puedo editar**
+No me aparece el GIT en la pantalla de *enviroment*
+
