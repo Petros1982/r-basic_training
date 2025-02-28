@@ -28,3 +28,8 @@ Una vez termines el curso podrás seguir con los mejores cursos de análisis de 
 **Esto es una prueba de como puedo editar**
 
 Ya solucioné el problema con el Git. Ahora lo probaremos
+
+$$5+8/(45)$$
+
+
+
